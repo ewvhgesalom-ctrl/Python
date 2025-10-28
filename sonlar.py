@@ -217,11 +217,12 @@ sonlar.sort(reverse=True)
 # A>0, B>0, C<0
 
 
-ABC = int(input("son = "))
-c = ABC % 10
-A = ABC // 100
-B = ABC // 10 % 10
+# ABC = int(input("son = "))
+# c = ABC % 10
+# A = ABC // 100
+# B = ABC // 10 % 10
 
+son= int(input())
 
 
 
